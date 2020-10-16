@@ -30,9 +30,3 @@ echo -e "Creating bin folder\n"
 mkdir ~/bin
 
 echo -e "Creating Termux-URL-Opener Script.\n"
-
-mv termux-url-opener ~/bin/
-echo -e "\n"
-echo -e "\e[032m" "Process Complete!"
-echo -e "\e[032m" "Now you can share any Youtube video with Termux and you will be ask to select the quality of your downloaded video and after that,It will be automatically Downloaded"
-echo -e "\e[033m" "For More Awesome and Useful Tool like this Visit My website ©www.LearnTermux.tech"
